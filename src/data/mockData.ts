@@ -1,10 +1,15 @@
 import { Product, Artisan, CategoryItem, StylingLook, FabricInfo, Currency } from '../types';
+import heroImg from '../assets/images/hero_pakistani_fashion_1793521908725.jpg';
+import fabricImg from '../assets/images/fabric_focus_luxury_1793521909089.jpg';
+import summerImg from '../assets/images/summer_heritage_campaign_1793521909594.jpg';
+import artisanImg from '../assets/images/artisan_craftsman_master_1793521910014.jpg';
+import stylingImg from '../assets/images/styling_festive_wear_1793521909170.jpg';
 
-export const HERO_IMAGE = '/src/assets/images/hero_pakistani_fashion_1793521908725.jpg';
-export const FABRIC_FOCUS_IMAGE = '/src/assets/images/fabric_focus_luxury_1793521909089.jpg';
-export const SUMMER_CAMPAIGN_IMAGE = '/src/assets/images/summer_heritage_campaign_1793521909594.jpg';
-export const ARTISAN_MASTER_IMAGE = '/src/assets/images/artisan_craftsman_master_1793521910014.jpg';
-export const STYLING_FESTIVE_IMAGE = '/src/assets/images/styling_festive_wear_1793521909170.jpg';
+export const HERO_IMAGE = heroImg;
+export const FABRIC_FOCUS_IMAGE = fabricImg;
+export const SUMMER_CAMPAIGN_IMAGE = summerImg;
+export const ARTISAN_MASTER_IMAGE = artisanImg;
+export const STYLING_FESTIVE_IMAGE = stylingImg;
 
 export const CATEGORIES_DATA: CategoryItem[] = [
   {
