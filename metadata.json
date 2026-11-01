@@ -1,0 +1,6 @@
+{
+  "name": "RIWAYAT – Threads of Heritage",
+  "description": "Premium luxury Pakistani ethnic fashion e-commerce storefront celebrating centuries-old craftsmanship, handcrafted silks, artisanal embroidery, and contemporary heritage silhouettes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
